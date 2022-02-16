@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 304fcfd8-2551-9fe8-31dc-a42bf747dc2b
 ---
@@ -192,7 +194,7 @@ The Reception of Darwinism
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The "Gospel of Evolution" in the Late-19th Century
+The "Gospel of Evolution" in the Late-19{{< sup "th" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 3 due

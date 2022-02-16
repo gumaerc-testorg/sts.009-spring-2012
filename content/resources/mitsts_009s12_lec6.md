@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-009-evolution-and-society-spring-2012/1c763f8fb7f2cf6516ce4a3790540d12_MITSTS_009S12_lec6.pdf
+file: /media/courses/sts-009-evolution-and-society-spring-2012/1c763f8fb7f2cf6516ce4a3790540d12_MITSTS_009S12_lec6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'STS.009: Lecture 6'
 uid: 1c763f8f-b7f2-cf65-16ce-4a3790540d12

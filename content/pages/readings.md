@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: af37cdbd-0a6a-4b55-5e7b-8f608d5d9ad8
 ---
@@ -239,7 +242,7 @@ Mini-biographies of key figures (to be circulated in class)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The "Gospel of Evolution" in the Late-19th Century
+The "Gospel of Evolution" in the Late-19{{< sup "th" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 

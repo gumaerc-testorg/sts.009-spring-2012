@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: fbcd01ad-f22e-e817-bf9a-1cda1a19d9ad
 ---
@@ -66,7 +69,7 @@ Natural History and Natural Theology
 {{< tdopen >}}
 
 
-How did 17th and 18th century naturalists understand the origins of living things? A review of key ideas, particularly in the key science of taxonomy (classification), together with an account of the pervasive influence of natural theology on ideas about the world of life in the English-speaking world before 1800.
+How did 17{{< sup "th" >}} and 18{{< sup "th" >}} century naturalists understand the origins of living things? A review of key ideas, particularly in the key science of taxonomy (classification), together with an account of the pervasive influence of natural theology on ideas about the world of life in the English-speaking world before 1800.
 
 [Lecture 3 (PDF - 1.1MB)]({{< baseurl >}}/resources/mitsts_009s12_lec3)
 
@@ -239,12 +242,12 @@ The publication of the Origin provoked a very wide-ranging and intense debate. W
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The "Gospel of Evolution" in the Late–19th Century
+The "Gospel of Evolution" in the Late–19{{< sup "th" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Darwin's theory seized the imaginations of late-Victorians, and soon the idea of evolution was being applied to everything—from the fortunes of individuals, to the fate of empires. We will review the extraordinary range of views about the wider significance of evolution—in Britain, and in the United States, home to some of the most striking forms of "Social Darwinism" in the late–19th century.
+Darwin's theory seized the imaginations of late-Victorians, and soon the idea of evolution was being applied to everything—from the fortunes of individuals, to the fate of empires. We will review the extraordinary range of views about the wider significance of evolution—in Britain, and in the United States, home to some of the most striking forms of "Social Darwinism" in the late–19{{< sup "th" >}} century.
 
 [Lecture 13 (PDF - 2.1MB)]({{< baseurl >}}/resources/mitsts_009s12_lec13)
 
@@ -260,7 +263,7 @@ Darwin's theory seized the imaginations of late-Victorians, and soon the idea of
 Evolution and Eugenics
 {{< tdclose >}}
 {{< tdopen >}}
-Darwin's cousin Francis Galton was inspired by his reading of the Origin of Species to take a lifelong interest in the role of inheritance in shaping human character. The chief result of this interest, the social philosophy of "Eugenics" (the term is Galton's) was to inspire some of the most notorious misuses of evolutionary and biological ideas in the 20th century.
+Darwin's cousin Francis Galton was inspired by his reading of the Origin of Species to take a lifelong interest in the role of inheritance in shaping human character. The chief result of this interest, the social philosophy of "Eugenics" (the term is Galton's) was to inspire some of the most notorious misuses of evolutionary and biological ideas in the 20{{< sup "th" >}} century.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +277,7 @@ The "Eclipse of Darwinism" in Biology Around 1900
 {{< tdopen >}}
 
 
-The Darwinists didn't have things all their own way in the late–19th century; in fact, by around 1900 it was probably only a minority among professional biologists who still thought that Darwin and Wallace had essentially gotten things right in 1858. We shall review the reasons for what Bowler dubbed "The Eclipse of Darwinism" around 1900, paying particular attention to the technical problems that evolutionary theory faced in the absence of a satisfactory theory of biological inheritance.
+The Darwinists didn't have things all their own way in the late–19{{< sup "th" >}} century; in fact, by around 1900 it was probably only a minority among professional biologists who still thought that Darwin and Wallace had essentially gotten things right in 1858. We shall review the reasons for what Bowler dubbed "The Eclipse of Darwinism" around 1900, paying particular attention to the technical problems that evolutionary theory faced in the absence of a satisfactory theory of biological inheritance.
 
 [Lecture 15 (PDF - 2.1MB)]({{< baseurl >}}/resources/mitsts_009s12_lec15)
 
@@ -290,7 +293,7 @@ The Darwinists didn't have things all their own way in the late–19th century; 
 The "Eclipse of Darwinism" in the Social Sciences After 1900
 {{< tdclose >}}
 {{< tdopen >}}
-While fundamentalist Christians were busy rejecting Darwinian evolution in principle, large numbers of social scientists were busy rejecting the same theory as a suitable foundation for cultural anthropology, psychology and sociology. This move for intellectual autonomy in the social sciences left its mark on later 20th century debates about evolution and society.
+While fundamentalist Christians were busy rejecting Darwinian evolution in principle, large numbers of social scientists were busy rejecting the same theory as a suitable foundation for cultural anthropology, psychology and sociology. This move for intellectual autonomy in the social sciences left its mark on later 20{{< sup "th" >}} century debates about evolution and society.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +305,7 @@ While fundamentalist Christians were busy rejecting Darwinian evolution in princ
 Evolution and the Rise of Christian Fundamentalism
 {{< tdclose >}}
 {{< tdopen >}}
-The idea of evolution became fairly widely accepted in late–19th century America, even among Christian communities. However, after 1900 the emergence of populist "Fundamentalism" powered the first serious resistance to Darwin's ideas since the early 1860s. The single most famous expression of this resistance was the notorious Scopes Trial in Dayton, Tennessee in 1925.
+The idea of evolution became fairly widely accepted in late–19{{< sup "th" >}} century America, even among Christian communities. However, after 1900 the emergence of populist "Fundamentalism" powered the first serious resistance to Darwin's ideas since the early 1860s. The single most famous expression of this resistance was the notorious Scopes Trial in Dayton, Tennessee in 1925.
 {{< tdclose >}}
 
 {{< trclose >}}

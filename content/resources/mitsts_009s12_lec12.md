@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 12.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-009-evolution-and-society-spring-2012/b6cc40bb3166efd781041231104d844d_MITSTS_009S12_lec12.pdf
+file: /media/courses/sts-009-evolution-and-society-spring-2012/b6cc40bb3166efd781041231104d844d_MITSTS_009S12_lec12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'STS.009: Lecture 12'
 uid: b6cc40bb-3166-efd7-8104-1231104d844d

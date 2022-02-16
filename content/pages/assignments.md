@@ -1,10 +1,13 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9d28ccd6-9d78-4f32-2809-fcf0f75743a4
 ---
 
-The course will require 5 written assignments, totaling c. 22 pages of assessed writing in all. The first assignment will concern the range of views about origins that were extant around 1800, i.e., in the period immediately prior to the emergence of evolutionary ideas of nature and society. Subsequent assignments will be concerned with the Darwinian debates of the 1860s, and evolution and society in the late-19th, early-20th centuries. The fourth assignment will be a special on a selected topic from the history of evolutionary thought in the 20th century; and the fifth and final paper will be a contribution to a "Student Debate", in the form of prepared notes plus an oral presentation.
+The course will require 5 written assignments, totaling c. 22 pages of assessed writing in all. The first assignment will concern the range of views about origins that were extant around 1800, i.e., in the period immediately prior to the emergence of evolutionary ideas of nature and society. Subsequent assignments will be concerned with the Darwinian debates of the 1860s, and evolution and society in the late-19{{< sup "th" >}}, early-20{{< sup "th" >}} centuries. The fourth assignment will be a special on a selected topic from the history of evolutionary thought in the 20{{< sup "th" >}} century; and the fifth and final paper will be a contribution to a "Student Debate", in the form of prepared notes plus an oral presentation.
 
 Assignment 1
 ------------
@@ -22,7 +25,7 @@ Handed out session 5, due session 7
 
 Maximum length: 5 pages
 
-Assignment #2: Write an essay on the birth of the science of historical geology in the early-19th century. In writing this essay, you should use material from both the lectures and the required readings. What were the distinctive features of historical geology at this time? What made it novel, and interesting, and important? Who were the key players, and what were the key factors (ideas, observations, events, publications, etc.) that contributed to the rise of historical geology? Try to organize your essay around a strong theme.
+Assignment #2: Write an essay on the birth of the science of historical geology in the early-19{{< sup "th" >}} century. In writing this essay, you should use material from both the lectures and the required readings. What were the distinctive features of historical geology at this time? What made it novel, and interesting, and important? Who were the key players, and what were the key factors (ideas, observations, events, publications, etc.) that contributed to the rise of historical geology? Try to organize your essay around a strong theme.
 
 Assignment 3
 ------------
