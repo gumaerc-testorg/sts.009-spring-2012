@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fbcd01ad-f22e-e817-bf9a-1cda1a19d9ad
 resourcetype: Document
 title: 'STS.009: Lecture 7'
 uid: 6feb79a8-014f-bae1-efd0-c77129e58ab0

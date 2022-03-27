@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9d28ccd6-9d78-4f32-2809-fcf0f75743a4
 resourcetype: Document
 title: Debate Fact Files
 uid: a097f4d1-724e-bb37-f13e-fd9cd0a35a8e
