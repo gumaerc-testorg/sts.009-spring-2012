@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, other texts,
+  and the schedule of readings by lecture session and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -357,7 +359,7 @@ Changing Understand of Human Origins
 
 Chapter 10 in \[Bowler\]. pp. 347–55.
 
-Landau, Misia. "[Human Evolution as Narrative." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://web.stanford.edu/class/ihum42/narrative.pdf) _American Scientist_ 72 (1984): 262–8.
+Landau, Misia. "[Human Evolution as Narrative." (PDF)](http://web.stanford.edu/class/ihum42/narrative.pdf) _American Scientist_ 72 (1984): 262–8.
 
 
 {{< tdclose >}}

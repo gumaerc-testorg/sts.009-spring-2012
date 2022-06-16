@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the five written assignments required
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -53,7 +55,7 @@ Debates
 
 Each student will be assigned a character. Each character will give a brief speech of no longer than 3 minutes. If you are sharing a character, please choose a single speaker to represent your character. Speeches will be accompanied by two 10—minute "open floor" sections. In each, characters will have the opportunity to pose questions to each other; responses should not exceed 1 minute. In the case of shared characters, open floor questions may be asked or answered by either student.
 
-Debate Fact Files are profiles of the various characters designed to help students get into character and understand their role. ([PDF]({{< baseurl >}}/resources/mitsts_009s12_dbt_ft_fls))
+Debate Fact Files are profiles of the various characters designed to help students get into character and understand their role. ({{% resource_link a097f4d1-724e-bb37-f13e-fd9cd0a35a8e "PDF" %}})
 
 Schedule
 
