@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, other texts,
+  and the schedule of readings by lecture session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: af37cdbd-0a6a-4b55-5e7b-8f608d5d9ad8
 ---
@@ -239,7 +244,7 @@ Mini-biographies of key figures (to be circulated in class)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The "Gospel of Evolution" in the Late-19th Century
+The "Gospel of Evolution" in the Late-19{{< sup "th" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -354,7 +359,7 @@ Changing Understand of Human Origins
 
 Chapter 10 in \[Bowler\]. pp. 347–55.
 
-Landau, Misia. "[Human Evolution as Narrative." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://web.stanford.edu/class/ihum42/narrative.pdf) _American Scientist_ 72 (1984): 262–8.
+Landau, Misia. "[Human Evolution as Narrative." (PDF)](http://web.stanford.edu/class/ihum42/narrative.pdf) _American Scientist_ 72 (1984): 262–8.
 
 
 {{< tdclose >}}
