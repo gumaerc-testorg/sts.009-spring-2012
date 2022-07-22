@@ -5,6 +5,7 @@ file: /courses/sts-009-evolution-and-society-spring-2012/4d40dc2b354a0a5d7f92224
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'STS.009: Lecture 2'
 uid: 4d40dc2b-354a-0a5d-7f92-2246de0fa005
 ---
 This resource contains information regarding lecture 2. 
-

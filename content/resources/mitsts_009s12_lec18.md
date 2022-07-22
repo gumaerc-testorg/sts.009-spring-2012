@@ -5,6 +5,7 @@ file: /courses/sts-009-evolution-and-society-spring-2012/ad715af238cadcddd348930
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'STS.009: Lecture 18 '
 uid: ad715af2-38ca-dcdd-d348-93096007904c
 ---
 This resource contains information regarding lecture 18.
-
