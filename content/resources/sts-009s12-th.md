@@ -5,6 +5,7 @@ description: Charles Darwin brought finch specimens back to England after his tr
   theory of evolution through natural selection. Photo courtesy of Santiago Ron on
   Flickr. CC-BY-NC
 file: /courses/sts-009-evolution-and-society-spring-2012/5ea82051f0d3630f5235cb92109a0583_sts-009s12-th.jpg
+file_size: 5154
 file_type: image/jpeg
 image_metadata:
   caption: Charles Darwin brought finch specimens back to England after his trip to
