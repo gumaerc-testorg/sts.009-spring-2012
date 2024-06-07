@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 1.
 file: /courses/sts-009-evolution-and-society-spring-2012/6b618df46dbf8f0c1bf265a2359f9dd9_MITSTS_009S12_lec1.pdf
+file_size: 977642
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
