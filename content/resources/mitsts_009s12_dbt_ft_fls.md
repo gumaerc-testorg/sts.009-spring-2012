@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about debater fact files.
-file: /ol-ocw-studio-app/courses/sts-009-evolution-and-society-spring-2012/a097f4d1724ebb37f13efd9cd0a35a8e_MITSTS_009S12_dbt_ft_fls.pdf
+file: /courses/sts-009-evolution-and-society-spring-2012/a097f4d1724ebb37f13efd9cd0a35a8e_MITSTS_009S12_dbt_ft_fls.pdf
 file_size: 354234
 file_type: application/pdf
 learning_resource_types:
