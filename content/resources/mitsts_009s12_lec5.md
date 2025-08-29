@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 5.
-file: /courses/sts-009-evolution-and-society-spring-2012/380158f131ea9f4c53bd3260832f8e37_MITSTS_009S12_lec5.pdf
+file: /ol-ocw-studio-app/courses/sts-009-evolution-and-society-spring-2012/380158f131ea9f4c53bd3260832f8e37_MITSTS_009S12_lec5.pdf
 file_size: 2111964
 file_type: application/pdf
 learning_resource_types:
