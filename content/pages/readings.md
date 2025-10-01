@@ -97,7 +97,7 @@ Chapter 4 in \[Bowler\]. pp. 108–14.
 
 ### Required Reading
 
-Larson, Edward J. Chapter 1 in _Bursting the Limits of Time_. University Of Chicago Press, 2007, pp. 3–26. ISBN: 9780226731131. \[Preview with [Google Books](http://books.google.com/books?id=Fb_sloCCiWQC&pg=PA15#v=onepage)\]
+Larson, Edward J. Chapter 1 in _Bursting the Limits of Time_. University Of Chicago Press, 2007, pp. 3–26. ISBN: 9780226731131. \[Preview with {{% resource_link "2a73aad8-c4b2-4d70-b8e4-197b59967830" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -133,7 +133,7 @@ Lyell, Charles. "Principles of Geology." In _The Victorian Age: An Anthology of 
 
 Chapter 4 in \[Bowler\]. pp. 134–40.
 
-Vestiges, available online at: [Project Gutenberg](http://www.gutenberg.org/dirs/etext04/vstc10h.htm) \[Dip in here and there, to get a feel for the text; don't try to read it all!\]
+Vestiges, available online at: {{% resource_link "5f27fa30-20f2-4678-9013-31beb1b0ba4d" "Project Gutenberg" %}} \[Dip in here and there, to get a feel for the text; don't try to read it all!\]
 
 
 {{< tdclose >}}
@@ -167,7 +167,7 @@ Voyages of Exploration, Part II: Wallace and Bates
 {{< tdopen >}}
 
 
-Wallace, Alfred Russel. "On the Law Which Has Regulated the Introduction of New Species." (1855) \[This is available online at: [TopSCHOLAR at Western Kentucky University](http://digitalcommons.wku.edu/dlps_fac_arw/2/).\]
+Wallace, Alfred Russel. "On the Law Which Has Regulated the Introduction of New Species." (1855) \[This is available online at: {{% resource_link "3c267b89-fb1d-4c57-b5e5-2f3797c553bf" "TopSCHOLAR at Western Kentucky University" %}}.\]
 
 
 {{< tdclose >}}
@@ -185,7 +185,7 @@ The Path to _The Origin of Species_
 
 Chapter 5 in \[Bowler\]. pp. 155–76.
 
-The Darwin-Wallace papers (1858); available at: [The Dispersal of Darwin](http://thedispersalofdarwin.wordpress.com/2010/08/20/darwin-wallace-papers-published-august-20-1858/).
+The Darwin-Wallace papers (1858); available at: {{% resource_link "fd36814e-008d-4be4-ad37-45717bef0fe1" "The Dispersal of Darwin" %}}.
 
 
 {{< tdclose >}}
@@ -203,7 +203,7 @@ The Darwin-Wallace papers (1858); available at: [The Dispersal of Darwin](http:/
 
 \[Bowler\]. pp. 177–83.
 
-Darwin, Charles. "Recapitulation and Conclusion." Chapter 14 in _Origin of Species_. Empire Books, 2011. ISBN: 9781619491304.  Available online at: [talkorigins.org](http://www.talkorigins.org/faqs/origin/chapter14.html).
+Darwin, Charles. "Recapitulation and Conclusion." Chapter 14 in _Origin of Species_. Empire Books, 2011. ISBN: 9781619491304.  Available online at: {{% resource_link "c7e0a2e8-07a4-40a8-a625-4df3fe2ff702" "talkorigins.org" %}}.
 
 
 {{< tdclose >}}
@@ -251,7 +251,7 @@ The "Gospel of Evolution" in the Late-19{{< sup "th" >}} Century
 
 Chapter 8 in \[Bowler\]. pp. 274–324.
 
-Huxley, Thomas. _Evolution and Ethics_. Kessinger Publishing, 2004. ISBN: 9781419118746. \[Preview with [Google Books](http://books.google.com/books?id=XTQLhgBTBT4C&pg=Pafrontcover)\]. Available online at: [Clark University: Evolution and Ethics](http://aleph0.clarku.edu/huxley/CE9/E-E.html).
+Huxley, Thomas. _Evolution and Ethics_. Kessinger Publishing, 2004. ISBN: 9781419118746. \[Preview with {{% resource_link "abb19fad-1cf4-49c2-b246-ddeb7d67f73f" "Google Books" %}}\]. Available online at: {{% resource_link "bfcf227b-0811-4e76-a869-3cdca5c6717e" "Clark University: Evolution and Ethics" %}}.
 
 
 {{< tdclose >}}
@@ -269,7 +269,7 @@ Evolution and Eugenics
 
 \[Bowler\]. pp. 256–9, and 308–13.
 
-Galton, Francis. "Hereditary Talent and Character." _Macmillan's Magazine_ 12 (1865): 157–66, and 318–27. Available online at: [Galton.org](http://galton.org/essays/1860-1869/galton-1865-macmillan-hereditary-talent.html)
+Galton, Francis. "Hereditary Talent and Character." _Macmillan's Magazine_ 12 (1865): 157–66, and 318–27. Available online at: {{% resource_link "f9e5f86e-d8fc-431f-8242-dda1e35896d7" "Galton.org" %}}
 
 
 {{< tdclose >}}
@@ -297,7 +297,7 @@ The "Eclipse of Darwinism" in the Social Sciences After 1900
 {{< tdopen >}}
 
 
-Boas, Franz. "Human Faculty as Determined by Race" and "Psychological Problems in Anthropology." _A Franz Boas Reader: The Shaping of American Anthropology_. Edited by George W. Stocking. University Of Chicago Press, 1989, pp. 219–21, and 243–54. ISBN: 9780226062433. \[Preview with [Google Books](http://books.google.com/books?id=0gN2LBm3MXsC&pg=PAfrontcover#v=onepage)\]
+Boas, Franz. "Human Faculty as Determined by Race" and "Psychological Problems in Anthropology." _A Franz Boas Reader: The Shaping of American Anthropology_. Edited by George W. Stocking. University Of Chicago Press, 1989, pp. 219–21, and 243–54. ISBN: 9780226062433. \[Preview with {{% resource_link "f1ceb3d2-f033-482d-96f3-699bb69d419d" "Google Books" %}}\]
 
 Durkheim, Emile. "What is a Social Fact?" In _Rules of Sociological Method: And Selected Texts on Sociology and Its Method_. Edited by S. Lukes. Free Press, 1982, pp. 50–9. ISBN: 9780029079300.
 
@@ -317,7 +317,7 @@ Evolution and the Rise of Christian Fundamentalism
 
 Larson, Edward J. Chapter 9 in _Evolution: The Remarkable History of a Scientific Theory_. Modern Library, 2006, pp. 199–218. ISBN: 9780812968491.
 
-Scopes Trial, Darrow cross-examines Bryan; online at: [http://www.beliefnet.com/news/science-religion/1999/12/clarence-darrows-examination-of-william-jennings-bryan-at-the-1925-scopes-trial.aspx](http://www.beliefnet.com/news/science-religion/1999/12/clarence-darrows-examination-of-william-jennings-bryan-at-the-1925-scopes-trial.aspx)
+Scopes Trial, Darrow cross-examines Bryan; online at: {{% resource_link "f82a9b1f-649f-4763-93e6-4714de2ee5dc" "http://www.beliefnet.com/news/science-religion/1999/12/clarence-darrows-examination-of-william-jennings-bryan-at-the-1925-scopes-trial.aspx" %}}
 
 
 {{< tdclose >}}
@@ -359,7 +359,7 @@ Changing Understand of Human Origins
 
 Chapter 10 in \[Bowler\]. pp. 347–55.
 
-Landau, Misia. "[Human Evolution as Narrative." (PDF)](http://web.stanford.edu/class/ihum42/narrative.pdf) _American Scientist_ 72 (1984): 262–8.
+Landau, Misia. "{{% resource_link "0e10082f-84b8-43f0-a5b3-361ac295de78" "Human Evolution as Narrative.\" (PDF)" %}} _American Scientist_ 72 (1984): 262–8.
 
 
 {{< tdclose >}}
@@ -377,7 +377,7 @@ Darwinism and Behavior: From Ethology to Sociobiology
 
 Chapter 10 in \[Bowler\]. pp. 353–66.
 
-Wilson, E. O. "What is Sociobiology?" _Sociobiology and Human Nature: An Interdisciplinary Critique and Defense_ (1978): 1–12. Available online at: [Pfeiffer University](https://www.pfeiffer.edu/).
+Wilson, E. O. "What is Sociobiology?" _Sociobiology and Human Nature: An Interdisciplinary Critique and Defense_ (1978): 1–12. Available online at: {{% resource_link "176ecd72-cbe4-4b7d-92c1-345a5af29820" "Pfeiffer University" %}}.
 
 
 {{< tdclose >}}
@@ -395,9 +395,9 @@ The Creation Controversies: From "Scientific Creationism" to "Intelligent Design
 
 Chapter 10 in \[Bowler\]. pp. 375–81.
 
-McLean versus Arkansas Board of Education (1982), available on-line at: [talkorigins.org](http://www.talkorigins.org/faqs/mclean-v-arkansas.html).
+McLean versus Arkansas Board of Education (1982), available on-line at: {{% resource_link "3b97e73b-fc3c-4567-bd30-490f5dc70676" "talkorigins.org" %}}.
 
-Kitzmiller versus Dover Area School District, Decision of the Court, 31 December 2005; available on-line at:[talkorigins.org](http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover_decision.html).
+Kitzmiller versus Dover Area School District, Decision of the Court, 31 December 2005; available on-line at:{{% resource_link "46694303-c4f9-4d33-a1d1-d29a34f516ab" "talkorigins.org" %}}.
 
 Miller, Kenneth R. _Finding Darwin's God_. Harper Perennial, 2007. ISBN: 9780061233500.
 
@@ -427,7 +427,7 @@ Reclaiming Evolution for the Social Sciences: the New Evolutionary Psychology
 {{< tdopen >}}
 
 
-Cosmides, Leda, and John Tooby. "Evolutionary Psychology: A Primer." 1997. Available online at: [UC Santa Barbara: Center for Evolutionary Psychology](https://www.cep.ucsb.edu/).
+Cosmides, Leda, and John Tooby. "Evolutionary Psychology: A Primer." 1997. Available online at: {{% resource_link "2adc08dc-9d6f-4e7e-b81b-52661bcbd661" "UC Santa Barbara: Center for Evolutionary Psychology" %}}.
 
 
 {{< tdclose >}}
@@ -441,7 +441,7 @@ Cosmides, Leda, and John Tooby. "Evolutionary Psychology: A Primer." 1997. Avail
 Evolutionary Humanism, from Julian Huxley to E.O. Wilson
 {{< tdclose >}}
 {{< tdopen >}}
-Ira Flatow interview with E. O. Wilson about his book, The Creation, on NPR (8th September 2006), available on-line at: [npr.org](http://www.npr.org/templates/story/story.php?storyId=5788810).
+Ira Flatow interview with E. O. Wilson about his book, The Creation, on NPR (8th September 2006), available on-line at: {{% resource_link "bacc8846-08fc-4ad7-8e78-5864e4372b57" "npr.org" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
