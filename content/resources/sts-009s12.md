@@ -10,8 +10,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Charles Darwin brought finch specimens back to England after his trip to
     the Galapagos Islands. These played an important role in the creation of Darwin's
-    theory of evolution through natural selection. (Photo courtesy of [Santiago Ron](http://www.flickr.com/photos/tiagoron/7270168492/)
-    on Flickr. CC-BY-NC)
+    theory of evolution through natural selection. (Photo courtesy of {{% resource_link
+    "9367285a-db85-41fa-8dc3-1e09e0967ac8" "Santiago Ron" %}} on Flickr. CC-BY-NC)
   credit: Photo courtesy of Santiago Ron on Flickr. CC-BY-NC
   image-alt: A photo of a Galapagos finch.
 learning_resource_types: []
